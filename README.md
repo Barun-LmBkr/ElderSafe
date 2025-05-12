@@ -88,6 +88,5 @@
 
 ###  Author
 
- Barun Saha
- BTech Mechatronics Engineering  
+ Barun Saha 
  [LinkedIn](https://linkedin.com/in/barunsaha03/)  | [GitHub](https://github.com/Barun-LmBkr) 
